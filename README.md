@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @multi-kontik
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Aaron🦇
+- 👀 I’m interested in music
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: by email bbayraa0998@gmail.com
