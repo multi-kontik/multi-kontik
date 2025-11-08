@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaron🦇
-- 👀 I’m interested in music
+- 👀 
 - 🌱 I’m currently learning python, java, assembly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: by email bbayraa0998@gmail.com
