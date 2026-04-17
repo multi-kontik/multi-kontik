@@ -1,4 +1,4 @@
-About Me: \\
+About Me: \
 - My name is Erdenebayar Battsengel and I am an incoming 3rd year Computer Science student at University of Toronto.
 - Interested in Machine Learning, AI, Computer Systems, Data Science and exploring more as I go.
 - Want to pursue research in Computer Science.<br>Looking to collaborate on agentic AI, systems programming projects and/or research opportunities.
