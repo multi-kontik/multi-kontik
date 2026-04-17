@@ -1,6 +1,9 @@
-About Me:
-My name is Erdenebayar Battsengel and I am an incoming 3rd year Computer Science student at University of Toronto.
-<br>Interested in Machine Learning, AI, Computer Systems, Data Science and exploring more as I go.<br>Want to pursue research in Computer Science.<br>Looking to collaborate on agentic AI, systems programming projects and/or research opportunities.<br>Recently worked on multi-process text analysis tool and Deepfake detection research.<br>Currently learning C (internet sockets), Shell programming, foundations of machine learning, Python (numpy, pandas), etc.<br>
+About Me: \\
+- My name is Erdenebayar Battsengel and I am an incoming 3rd year Computer Science student at University of Toronto.
+- Interested in Machine Learning, AI, Computer Systems, Data Science and exploring more as I go.
+- Want to pursue research in Computer Science.<br>Looking to collaborate on agentic AI, systems programming projects and/or research opportunities.
+- Recently worked on multi-process text analysis tool and Deepfake detection research.
+- Currently learning C (internet sockets), Shell programming, foundations of machine learning, Python (numpy, pandas), etc.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erdenebayar-battsengel-1005b932b) 
